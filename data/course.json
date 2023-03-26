@@ -1,0 +1,36 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Buildings"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "site19"
+  },
+  "course_image": {
+    "content": "",
+    "website": "site19"
+  },
+  "course_title": "site19",
+  "course_description": "site19",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "19",
+  "primary_course_number": "19",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "site19"
+  },
+  "learning_resource_types": [],
+  "site_uid": "0c56defb-75cc-48da-9b34-2051c38d6a00",
+  "site_short_id": "site19"
+}
