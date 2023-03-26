@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: METADATA
 file: /media/courses/site19/site19-test3.txt
 file_type: text/plain
 image_metadata:
