@@ -3,3 +3,7 @@ leftnav:
   name: page
   url: /pages/pagw
   weight: 10
+- identifier: 5d9e5d3a-6e87-42b6-a0a5-f1a35c76a3fe
+  name: page control
+  url: /resources/site19-test4
+  weight: 20
