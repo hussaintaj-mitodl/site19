@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: METADATA
-file: /media/courses/site19/site19-test4.txt
+file: /media/courses/19-site19-spring-2022/site19-test4.txt
 file_type: text/plain
 image_metadata:
   caption: ''
